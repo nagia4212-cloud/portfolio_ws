@@ -18,7 +18,7 @@ const PROJECTS = [
          { title: "On-Demand Migration", desc: "전체 데이터 일괄 로딩 대신, 로그인한 활성 유저(Active User)의 데이터를 우선 복구하는 '트리거(Trigger) 기반 큐(Queue)' 시스템 설계." },
          { title: "Traffic Control", desc: "대기열 UX(Waiting Room)를 도입하여 트래픽을 분산하고, Cold/Hot Data Tiering 정책으로 클라우드 비용 최적화." }
       ],
-      matchPoint: "안랩의 클라우드 보안 관제(MSP) 및 대규모 트래픽 처리 솔루션 기획 시, 인프라 비용 효율성과 가용성(Availability)을 고려한 아키텍처를 설계할 수 있습니다.",
+      matchPoint: "엔터프라이즈급 대규모 트래픽 처리 및 데이터 마이그레이션 기획 시, 인프라 비용 효율성과 가용성(Availability)을 고려한 안정적인 아키텍처를 설계할 수 있습니다.",
       media: [
          {
             title: "추억의 싸이월드 다시 열렸다…오늘부터 ‘파도타기’ 등 서비스 재개",
@@ -41,7 +41,7 @@ const PROJECTS = [
          { title: "Settlement Admin", desc: "PG사 결제 데이터와 내부 DB를 자동 대사(Reconciliation)하는 백오피스를 구축하여, 수기 정산의 비효율과 리스크를 제거했습니다." },
          { title: "Policy Setup", desc: "전자금융법 및 소비자보호 지침을 반영하여 환불/소멸 시효 약관을 개정하고, 이를 시스템에 투명하게 반영했습니다." }
       ],
-      matchPoint: "안랩이 타겟팅하는 금융/핀테크 보안 및 블록체인 사업에서, 자산 흐름의 투명성을 확보하고 정산 리스크를 제로(Zero)화하는 기획 역량을 발휘하겠습니다.",
+      matchPoint: "금융/핀테크 및 커머스 비즈니스에서 자산 흐름의 투명성을 확보하고, 정산 리스크를 제로(Zero)화하는 정교한 백오피스 및 정책 기획 역량을 발휘하겠습니다.",
       media: [
          {
             title: "싸이월드 도토리, 페이코인으로 산다",
@@ -67,7 +67,7 @@ const PROJECTS = [
          { title: "Compliance Strategy", desc: "법무 검토를 거쳐 '상속인 전원 동의' 및 '전체 공개 게시물 한정'이라는 내부 컴플라이언스 기준 수립." },
          { title: "Process Setup", desc: "민감 서류(가족관계증명서 등)를 안전하게 접수하고 파기하는 보안 프로세스를 구축하여 정보 유출 리스크 차단." }
       ],
-      matchPoint: "규제가 명확하지 않은 신규 보안 기술이나 BM 도입 시, 법적 리스크를 최소화하면서도 비즈니스를 가능하게 만드는(Enabler) 정책을 수립하겠습니다.",
+      matchPoint: "규제가 명확하지 않은 신규 비즈니스(BM) 혹은 기술 도입 시, 컴플라이언스 및 법적 리스크를 최소화하면서도 혁신 비즈니스를 가능하게 만드는(Enabler) 정책을 수립하겠습니다.",
       media: [
          {
             title: "싸이월드 “고인 게시물 유족에 전달”…디지털 상속? 프라이버시 침해?",
@@ -89,7 +89,7 @@ const PROJECTS = [
          { title: "Algorithm", desc: "통신사 본인인증(PASS)의 CI(연계정보) 값을 키(Key)로 활용한 매칭 알고리즘을 도입해 정확도 100% 달성." },
          { title: "UX Optimization", desc: "다중 계정 보유자를 위한 계정 통합/분리 UX를 설계하여 유저 편의성과 보안성을 동시에 확보." }
       ],
-      matchPoint: "안랩의 모바일 인증 및 간편 인증 솔루션(V3 Mobile 등) 기획 시, 강력한 보안성을 유지하면서도 사용자 이탈(Churn)을 막는 최적의 인증 플로우를 설계할 수 있습니다.",
+      matchPoint: "규모감 있는 플랫폼 인증 및 회원 체계 고도화 시, 강력한 보안성을 유지하면서도 사용자 이탈(Churn)을 막는 최적의 인증 플로우(UX)를 설계할 수 있습니다.",
       media: [
          {
             title: "싸이월드 로그인 위한 실명인증 4월에만 889만 건 돌파",
@@ -111,7 +111,7 @@ const PROJECTS = [
          { title: "Fast Pivot", desc: "유저 니즈가 '소통'이 아닌 '나만의 공간'임을 파악, 메인 화면을 '미니룸'으로 즉각 변경하여 앱스토어 1위 유지." },
          { title: "CRM Admin", desc: "상담원이 유저의 결제/로그/제재 이력을 한눈에 보는 '통합 유저 뷰(User 360 View)'를 기획하여 운영 효율 극대화." }
       ],
-      matchPoint: "보안 서비스의 복잡한 기능을 개인/SMB 고객에게 쉽게 전달하고, 운영 비용(Cost)을 절감하는 효율적인 백오피스 시스템을 구축하겠습니다.",
+      matchPoint: "복잡한 B2B/B2C 서비스 기능을 유저에게 쉽게 전달하고, 데이터 기반의 서비스 운영과 함께 운영 비용(Cost)을 절감하는 효율적인 백오피스 시스템을 구축하겠습니다.",
       media: [
          {
             title: "돌아온 싸이월드 양대 앱 마켓 1위…국민 SNS 부활 조짐",
@@ -273,8 +273,8 @@ const App = () => {
                            싸이월드라는 대규모 플랫폼을 운영하며 체득한 <strong className="text-white">'시스템 설계 능력'</strong>을 겸비하고 있습니다.
                         </p>
                         <p>
-                           안랩이 지향하는 '보안 서비스 플랫폼'은 기술적 우위를 넘어, 사용자에게 신뢰(Trust)와 편의(Utility)를 동시에 제공해야 합니다.
-                           저는 "이 기능이 법적으로 안전한가?", "대규모 트래픽을 감당할 수 있는가?"를 치열하게 검증하며 실행 가능한 비즈니스 모델을 만들어왔습니다.
+                           완성도 높은 IT 서비스 플랫폼은 기술적 우위를 넘어, 사용자에게 신뢰(Trust)와 편의(Utility)를 동시에 제공해야 합니다.
+                           저는 "이 기능이 비즈니스적으로 안전한가?", "대규모 트래픽을 감당할 수 있는가?"를 치열하게 검증하며 지속 가능한 확장을 이끄는 기획을 해왔습니다.
                         </p>
                      </div>
                   </div>
@@ -536,11 +536,11 @@ const App = () => {
                            </div>
                         </div>
 
-                        {/* AhnLab Match Point */}
+                        {/* Key Competency */}
                         <div className="bg-neutral-800 p-6 border border-neutral-700">
                            <div className="flex items-center gap-2 mb-3 text-orange-500 font-bold">
                               <Shield size={20} />
-                              <span>AHNLAB MATCH POINT</span>
+                              <span>KEY COMPETENCY</span>
                            </div>
                            <p className="text-neutral-300 leading-relaxed">
                               {selectedProject.matchPoint}
